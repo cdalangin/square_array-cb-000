@@ -4,5 +4,4 @@ def square_array(array)
     num = num.to_i*num
     return array
   end
-
 end
